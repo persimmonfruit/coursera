@@ -1,1 +1,1 @@
-# coursera homwe work repo
+# repo for coursera homwework
